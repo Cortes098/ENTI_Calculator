@@ -17,4 +17,6 @@ struct Calculation {
         self.secondOperator = nil
         self.operation = .none
     }
+    
+    
 }
